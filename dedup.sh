@@ -2,7 +2,7 @@
 # 
 # This searches for duplicate files run by the backup_script of rsnapshot.
 #
-# This is ideal for scripts that generate rougly the same output each time
+# This is ideal for scripts that generate roughly the same output each time
 # and where you want to conserve disk space.
 #
 #
